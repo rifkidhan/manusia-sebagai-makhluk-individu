@@ -1,0 +1,412 @@
+[
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PENGERTIAN INDIVIDU",
+    "displayTitle": "PENGERTIAN INDIVIDU",
+    "body": "<p>Secara etimologis, kata “individu” diadaptasi dari bahasa Inggris yang berasal dari bahasa Yunani “individium”, dimana artinya “tidak terbagi”. Istilah tersebut merujuk pada suatu kesatuan yang paling kecil dan terbatas. Sehingga dalam hal ini, individu merupakan suatu kesatuan yang terbatas, yaitu sebagai manusia perseorangan bukan sebagai manusia keseluruhan.</p>",
+    "_id": "5f317b416a6373040cff63ba",
+    "_parentId": "5f317b416a6373040cff63b3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "INDIVIDU",
+    "displayTitle": "INDIVIDU",
+    "body": "<p>Ciri seorang individu tidak hanya mudah dikenali lewat ciri fisik atau biologisnya. Sifat, karakter, perangai, atau gaya dan selera orang juga berbeda-beda. Lewat ciri-ciri fisik seseorang pertama kali mudah dikenali. Seorang individu adalah perpaduan antara faktor genotip&nbsp;dan fenotip.</p>",
+    "_id": "5f317f446a6373040cff63e9",
+    "_parentId": "5f317b416a6373040cff63b8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Faktor Genotip",
+        "body": "<p>Faktor genotip&nbsp;adalah faktor yang dibawa individu sejak lahir.&nbsp;Secara fisik seseorang memiliki kemiripan atau kesamaan ciri dari&nbsp;orang tuanya, kemiripan atau kesamaan itu mungkin saja terjadi pada keseluruhan penampilan fisiknya, bisa juga terjadi pada bagian–bagian tubuh tertentu saja.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Faktor Fenotip",
+        "body": "<p>Faktor fenotip adalah faktor yang berasal dari lingkungan. Lingkungan ikut berperan dalam pembentukan karakteristik yang khas dari seseorang. Istilah lingkungan merujuk pada lingkungan fisik dan lingkungan sosial. Lingkungan fisik seperti lingkungan alam sekitar. Lingkungan sosial merujuk pada lingkungan dimana seorang individu melakukan interaksi sosial.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "KEPRIBADIAN",
+    "displayTitle": "KEPRIBADIAN",
+    "body": "<p>Dari faktor genetip dan fenotip akan membentuk sebuah karakterisitik yang khas dari individu, yaitu&nbsp;<strong>kepribadian. </strong>Kepribadian menurut&nbsp;Nursid Sumaatmadja (2000) adalah&nbsp;keseluruhan perilaku individu yang merupakan hasil interaksi antara potensi-potensi bio-psiko-fiskal (fisik dan psikis) yang terbawa sejak lahir dengan rangkaian situasi lingkungan, yang terungkap pada tindakan dan perbuatan serta reaksi mental psikologisnya, jika mendapat rangsangan dari lingkungan.</p>",
+    "_id": "5f31811c6a6373040cff63ea",
+    "_parentId": "5f317b416a6373040cff63b9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "SOSIALISASI",
+    "displayTitle": "SOSIALISASI",
+    "body": "<p>Sosialisasi sebagai suatu proses di mana seorang anak belajar menjadi seorang anggota yang berpartisipasi dalam masyarakat (Peter Berger, 1978). Pihak atau individu yang melakukan sosialisasi biasa disebut <strong>agen sosialisasi</strong>. Agen Sosialisasi menurut Fuller and Jacobs (1973) ada empat yang utama, yaitu keluarga, kelompok bermain, media massa, dan sistem pendidikan.</p><p>Di dalam sosialisasi ada tiga tahap pengembangan (Goerge Herbert Mead, 1972), yaitu <em>play stage</em>, <em>game stage</em>, dan <em>generalized other.</em></p>",
+    "_id": "5f31829d6a6373040cff63ec",
+    "_parentId": "5f3182586a6373040cff63eb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Play Stage",
+        "_ariaLevel": 0,
+        "body": "<p>Play stage, seorang anak kecil mulai belajar mengambil peranan orang-orang yang berada di sekitarnya.</p>",
+        "_graphic": {
+          "src": "course/en/assets/b437fc9cbd9cfbb9670bd747a693c2414bc3e06a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Play Stage"
+      },
+      {
+        "title": "Game Stage",
+        "_ariaLevel": 0,
+        "body": "<p><em>Game stage,</em> seorang anak tidak hanya telah mengetahui peranan yang harus dijalankannya, tetapi telah pula mengetahui peranan yang harus dijalankan oleh orang lain dengan siapa ia berinteraksi.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e44c32957c5449b646ad62bd896dc238b05abf75.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Game Stage"
+      },
+      {
+        "title": "Generalized Other",
+        "_ariaLevel": 0,
+        "body": "<p>Seorang anak&nbsp;telah mampu mengambil peran orang lain dan mampu berinteraksi dengan orang lain dalam masyarakat, karena telah memahami peranannya sendiri, serta peranan orang-orang lain dengan siapa ia berinteraksi.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e5d79b2654a0e0a04c214e55cac8512cd8296629.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Generalized Other"
+      }
+    ]
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "KONSEP DIRI",
+    "displayTitle": "KONSEP DIRI",
+    "body": "<p>Dengan banyaknya interaksi dapat membuahkan konsep diri. Cooley berpendapat keberadaan seseorang berkembang berdasarkan interaksi dan persepsi orang lain. Kita tumbuh menurut apa yang orang lain persepsikan mengenai diri kita.&nbsp;Cooley berpendapat bahwa <em>looking-glass self</em> terbentuk melalui tiga tahap.</p>",
+    "_id": "5f3186c46a6373040cff63f1",
+    "_parentId": "5f3186066a6373040cff63f0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Seseorang mempunyai persepsi mengenai pandangan orang lain terhadapnya.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Seseorang mempunyai persepsi mengenai penilaian orang lain terhadap penampilannya.</p>",
+        "next": "Dan"
+      },
+      {
+        "body": "<p>Seseorang mempunyai perasaan terhadap apa yang dirasakannya sebagai penilaian orang lain terhadapnya itu.</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk melihat tahapan",
+      "continueText": "Selanjutnya"
+    }
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "BENTUK PROSES SOSIALISASI",
+    "displayTitle": "BENTUK PROSES SOSIALISASI",
+    "body": "<p>Sosialisasi merupakan suatu proses yang berlangsung sepanjang hidup manusia. Dalam kaitan ini lah para pakar berbicara mengenai bentuk–bentuk proses sosialisasi seperti :</p>",
+    "_id": "5f318b216a6373040cff63f3",
+    "_parentId": "5f3189db6a6373040cff63f2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Masa kanak-kanak</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Pendidikan</p>",
+        "next": "Dan"
+      },
+      {
+        "body": "<p>Pendidikan sepanjang hidup</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik untuk melihat bentuk proses sosialisasi",
+      "continueText": "Selanjutnya"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "POLA-POLA SOSIALISASI",
+    "displayTitle": "POLA-POLA SOSIALISASI",
+    "body": "<p>Sosialisasi dapat dibagi menjadi dua pola, yaitu&nbsp;sosialisasi represi&nbsp;dan sosialisasi partisipatori.</p>",
+    "_id": "5f318c496a6373040cff63f4",
+    "_parentId": "5f318e616a6373040cff63f5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Pola Represi",
+        "body": "<p>Pola represi&nbsp;menekankan pada penggunaan hukuman terhadap kesalahan.&nbsp;Penekanan pada komunikasi yang bersifat satu arah, nonverbal dan berisi perintah, penekanan sosialisasi terletak pada orang tua dan keinginan orang tua, dan peran keluarga sebagai&nbsp;<em>significant other</em>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pola Partisipatori",
+        "body": "<p>Pola Partisipatori merupakan pola di mana anak diberi imbalan ketika berprilaku baik. Selain itu, hukuman dan imbalan bersifat simbolik. Dalam proses sosialisasi ini anak diberi kebebasan. Penekanan diletakkan pada&nbsp;interaksi&nbsp;dan&nbsp;komunikasi&nbsp;bersifat lisan yang menjadi pusat sosialisasi adalah anak dan keperluan anak. Keluarga menjadi&nbsp;<em>generalized other</em>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Gambar",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f322fde6e73d820bca227fa",
+    "_parentId": "5f3189db6a6373040cff63f2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b425ef7fe93f7ba98740b722673e4f29276c7a69.jpg",
+      "small": "course/en/assets/b425ef7fe93f7ba98740b722673e4f29276c7a69.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Gambar lagi",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f3230356e73d820bca22800",
+    "_parentId": "5f318e616a6373040cff63f5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/df96724fff8444c50ca03798271da8fafb7d57ca.jpg",
+      "small": "course/en/assets/df96724fff8444c50ca03798271da8fafb7d57ca.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Gambaran",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f32304b6e73d820bca22803",
+    "_parentId": "5f317b416a6373040cff63b9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bf894c54bdd4c7b0b3145adc53035ed24262b691.jpg",
+      "small": "course/en/assets/bf894c54bdd4c7b0b3145adc53035ed24262b691.jpg",
+      "attribution": ""
+    }
+  }
+]

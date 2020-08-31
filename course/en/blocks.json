@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Block 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f317b416a6373040cff63b3",
+    "_parentId": "5f317b416a6373040cff63b1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/eea28ae0f5e873d5f89d77624dd9064e58433c18.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Kepribadian",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-blue",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f317b416a6373040cff63b9",
+    "_parentId": "5f317b416a6373040cff63b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Individu",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f317b416a6373040cff63b8",
+    "_parentId": "5f317b416a6373040cff63b1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/113024693361024430ba5d2257308d412a3d3ecb.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Sosialisasi",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-gray",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3182586a6373040cff63eb",
+    "_parentId": "5f317b416a6373040cff63b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Konsep diri",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-gray",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3186066a6373040cff63f0",
+    "_parentId": "5f317b416a6373040cff63b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/526f18fc7df08710045d3440d518a3820fabaab5.jpg",
+      "src": "course/en/assets/526f18fc7df08710045d3440d518a3820fabaab5.jpg"
+    }
+  },
+  {
+    "title": "Bentuk Proses sosialisasi",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3189db6a6373040cff63f2",
+    "_parentId": "5f317b416a6373040cff63b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png",
+      "src": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png"
+    }
+  },
+  {
+    "title": "Pola sosialisasi",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f318e616a6373040cff63f5",
+    "_parentId": "5f317b416a6373040cff63b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png",
+      "src": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png"
+    }
+  }
+]
